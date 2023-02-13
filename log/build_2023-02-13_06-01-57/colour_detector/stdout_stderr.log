@@ -1,0 +1,29 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/allan/dev_ws/install/colour_detector/share/colour_detector/config/drive_bot.rviz
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/config/empty.yaml
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/config/view_bot.rviz
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/gazebo_control.xacro
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/inertial_macros.xacro
+-- Symlinking: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/lidar.xacro
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/robot_core.xacro
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/launch/launch_sim.launch.py
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/launch/rsp.launch.py
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/worlds/empty.world
+-- Symlinking: /home/allan/dev_ws/install/colour_detector/share/colour_detector/worlds/test_blue_objects.world
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/ament_index/resource_index/package_run_dependencies/colour_detector
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/ament_index/resource_index/parent_prefix_path/colour_detector
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/environment/path.sh
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/environment/path.dsv
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/local_setup.bash
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/local_setup.sh
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/local_setup.zsh
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/local_setup.dsv
+-- Symlinking: /home/allan/dev_ws/install/colour_detector/share/colour_detector/package.dsv
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/ament_index/resource_index/packages/colour_detector
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/cmake/colour_detectorConfig.cmake
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/cmake/colour_detectorConfig-version.cmake
+-- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/package.xml

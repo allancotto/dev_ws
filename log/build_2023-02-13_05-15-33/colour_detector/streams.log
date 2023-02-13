@@ -1,0 +1,30 @@
+[0.011s] Invoking command in '/home/allan/dev_ws/build/colour_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/allan/dev_ws/build/colour_detector -- -j12 -l12
+[0.037s] Invoked command in '/home/allan/dev_ws/build/colour_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/allan/dev_ws/build/colour_detector -- -j12 -l12
+[0.051s] Invoking command in '/home/allan/dev_ws/build/colour_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/allan/dev_ws/build/colour_detector
+[0.055s] -- Install configuration: ""
+[0.055s] -- Execute custom install script
+[0.055s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/config/empty.yaml
+[0.055s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/config/view_bot.rviz
+[0.055s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/gazebo_control.xacro
+[0.055s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/inertial_macros.xacro
+[0.055s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/robot.urdf.xacro
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/description/robot_core.xacro
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/launch/launch_sim.launch.py
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/launch/rsp.launch.py
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/worlds/empty.world
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/ament_index/resource_index/package_run_dependencies/colour_detector
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/ament_index/resource_index/parent_prefix_path/colour_detector
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/environment/ament_prefix_path.sh
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/environment/ament_prefix_path.dsv
+[0.056s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/environment/path.sh
+[0.057s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/environment/path.dsv
+[0.057s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/local_setup.bash
+[0.057s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/local_setup.sh
+[0.057s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/local_setup.zsh
+[0.057s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/local_setup.dsv
+[0.057s] -- Symlinking: /home/allan/dev_ws/install/colour_detector/share/colour_detector/package.dsv
+[0.062s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/ament_index/resource_index/packages/colour_detector
+[0.062s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/cmake/colour_detectorConfig.cmake
+[0.062s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/cmake/colour_detectorConfig-version.cmake
+[0.062s] -- Up-to-date symlink: /home/allan/dev_ws/install/colour_detector/share/colour_detector/package.xml
+[0.063s] Invoked command in '/home/allan/dev_ws/build/colour_detector' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/allan/dev_ws/build/colour_detector

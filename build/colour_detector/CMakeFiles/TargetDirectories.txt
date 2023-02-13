@@ -1,0 +1,9 @@
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/uninstall.dir
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/colour_detector_uninstall.dir
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/test.dir
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/edit_cache.dir
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/rebuild_cache.dir
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/list_install_components.dir
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/install.dir
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/install/local.dir
+/home/allan/dev_ws/build/colour_detector/CMakeFiles/install/strip.dir

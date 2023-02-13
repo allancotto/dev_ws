@@ -1,0 +1,1 @@
+/home/allan/dev_ws/build/colour_detector/ament_cmake_core/colour_detectorConfig-version.cmake
